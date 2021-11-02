@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../intercom-wordpress"
+		},
+		{
+			"path": "../../../../Downloads/wordpress"
+		}
+	],
+	"settings": {}
+}
